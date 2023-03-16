@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "LST"]
+	path = LST
+	url = https://github.com/bappa10085/lst
+	shallow = true
+	registered = true
