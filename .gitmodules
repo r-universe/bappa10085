@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "LST"]
 	path = LST
 	url = https://github.com/bappa10085/lst
-	shallow = true
-	registered = true
 [submodule "QI"]
 	path = QI
 	url = https://github.com/cran/QI
-	shallow = true
-	registered = true
 [submodule "soilchemistry"]
 	path = soilchemistry
 	url = https://github.com/cran/soilchemistry
-	shallow = true
-	registered = true
 [submodule "SoilTesting"]
 	path = SoilTesting
 	url = https://github.com/cran/SoilTesting
-	shallow = true
-	registered = true
