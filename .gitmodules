@@ -8,9 +8,9 @@
 [submodule "QI"]
 	path = QI
 	url = https://github.com/cran/QI
-[submodule "soilchemistry"]
-	path = soilchemistry
-	url = https://github.com/cran/soilchemistry
 [submodule "SoilTesting"]
 	path = SoilTesting
 	url = https://github.com/cran/SoilTesting
+[submodule "soilchemistry"]
+	path = soilchemistry
+	url = https://github.com/cran/soilchemistry
