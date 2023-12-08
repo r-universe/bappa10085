@@ -7,10 +7,10 @@
 	url = https://github.com/bappa10085/lst
 [submodule "QI"]
 	path = QI
-	url = https://github.com/cran/QI
+	url = https://github.com/bappa10085/qi
 [submodule "SoilTesting"]
 	path = SoilTesting
-	url = https://github.com/cran/SoilTesting
+	url = https://github.com/bappa10085/soiltesting
 [submodule "soilchemistry"]
 	path = soilchemistry
-	url = https://github.com/cran/soilchemistry
+	url = https://github.com/bappa10085/soilchemistry
